@@ -22,9 +22,7 @@ import io.micrometer.core.annotation.Timed;
 import io.micrometer.core.instrument.Counter;
 import io.micrometer.core.instrument.Metrics;
 
-/**
- * Created by rajeevkumarsingh on 20/11/17.
- */
+
 
 @RestController
 @RequestMapping("/api/polls")
